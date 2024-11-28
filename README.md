@@ -1,2 +1,2 @@
 # jogo-de-carro-colisao
-Projeto phyton do curso online
+Projeto python do curso online
